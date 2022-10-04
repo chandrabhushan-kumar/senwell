@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+table, th, td {
+  border:1px solid black;
+}
+h1,
+p {
+  font-family: Lato;
+}
+
+.bgRed {
+  background-color: red;
+}
+.bgGreen {
+  background-color: green;
+}
+.bgYellow {
+  background-color: yellow;
+}
